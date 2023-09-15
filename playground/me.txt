@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mangi Nikhil
-Skills: HTML, CSS, JS, Node.js ,React,tailwindcss,Bootstrap,express.js
-Email: manginikhil2003@gmail.com
-{{/user}}
